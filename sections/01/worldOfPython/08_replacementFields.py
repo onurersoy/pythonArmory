@@ -1,5 +1,3 @@
-# 8
-
 age = 24
 
 # print("My age is " + age + " years old.") > # Errored example

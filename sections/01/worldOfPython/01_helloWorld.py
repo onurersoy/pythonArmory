@@ -1,5 +1,3 @@
-# 1
-
 print('Here we go again!')
 print(1 + 1)
 print(7 * 6)

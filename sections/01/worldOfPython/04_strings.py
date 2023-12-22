@@ -1,5 +1,3 @@
-# 4
-
 #         012345678910111213
 parrot = "Norwegian Blue"
 print(parrot)

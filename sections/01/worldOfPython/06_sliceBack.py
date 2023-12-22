@@ -1,5 +1,3 @@
-# 6
-
 letters = "abcdefghijklmnopqrstuvwxyz"
 
 backwards = letters[25:0:-1]

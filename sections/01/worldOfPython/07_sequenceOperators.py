@@ -1,5 +1,3 @@
-# 7
-
 string1 = "he's "
 string2 = "probably "
 string3 = "pining "

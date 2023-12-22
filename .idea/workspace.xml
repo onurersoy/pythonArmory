@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonArmory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/escapeChar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/fStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/helloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/replacementFields.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/sequenceOperators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/sliceBack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/01/worldOfPython/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/02_elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/03_guessingGame1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/04_exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/05_exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/06_guessingGame2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/07_conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/escapeChar.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/02_escapeChar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/fStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/10_fStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/09_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/helloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/01_helloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/03_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/replacementFields.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/sequenceOperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/07_sequenceOperators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/sliceBack.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/06_sliceBack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/04_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/02/programFlow/if.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/02/programFlow/01_if.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +43,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XBQvXashgZB89M7aIFU1mQTwCq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,43 +60,27 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kzfq009/Documents/Projects/personal/pythonArmory/sections/02/programFlow&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sections/02/programFlow" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sections/01/worldOfPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.if">
-    <configuration name="fStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonArmory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/01/worldOfPython/fStrings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_conditions">
+    <configuration name="02_elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +93,95 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/if.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/02_elif.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_escapeChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/01/worldOfPython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/01/worldOfPython/02_escapeChar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_guessingGame1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/03_guessingGame1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04_exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/04_exercise1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_conditions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/07_conditions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,8 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.if" />
-        <item itemvalue="Python.fStrings" />
+        <item itemvalue="Python.07_conditions" />
+        <item itemvalue="Python.04_exercise1" />
+        <item itemvalue="Python.03_guessingGame1" />
+        <item itemvalue="Python.02_escapeChar" />
+        <item itemvalue="Python.02_elif" />
       </list>
     </recent_temporary>
   </component>
@@ -128,15 +210,48 @@
       <updated>1698100227207</updated>
       <workItem from="1698100228865" duration="216000" />
       <workItem from="1699229536869" duration="6088000" />
-      <workItem from="1699919035429" duration="1773000" />
+      <workItem from="1699919035429" duration="2864000" />
+      <workItem from="1700251190656" duration="597000" />
+      <workItem from="1700268370816" duration="581000" />
+      <workItem from="1701080118672" duration="9000" />
+      <workItem from="1701260438720" duration="96000" />
+      <workItem from="1701260543749" duration="5437000" />
+      <workItem from="1702915110932" duration="5085000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sections/02/programFlow/02_elif.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonArmory$if.coverage" NAME="if Coverage Results" MODIFIED="1699475568393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/02/programFlow" />
-    <SUITE FILE_PATH="coverage/pythonArmory$fStrings.coverage" NAME="fStrings Coverage Results" MODIFIED="1699230040084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/01" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_escapeChar.coverage" NAME="02_escapeChar Coverage Results" MODIFIED="1703065127779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/01/worldOfPython" />
+    <SUITE FILE_PATH="coverage/pythonArmory$fStrings.coverage" NAME="fStrings Coverage Results" MODIFIED="1702038872845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/01" />
+    <SUITE FILE_PATH="coverage/pythonArmory$guessingGame.coverage" NAME="guessingGame Coverage Results" MODIFIED="1703198874738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/02/programFlow" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_elif.coverage" NAME="02_elif Coverage Results" MODIFIED="1702039891309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/02/programFlow" />
+    <SUITE FILE_PATH="coverage/pythonArmory$01_if.coverage" NAME="01_if Coverage Results" MODIFIED="1702038910390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/02/programFlow" />
+    <SUITE FILE_PATH="coverage/pythonArmory$07_conditions.coverage" NAME="07_conditions Coverage Results" MODIFIED="1703285728881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/02/programFlow" />
+    <SUITE FILE_PATH="coverage/pythonArmory$031_exercise1.coverage" NAME="031_exercise1 Coverage Results" MODIFIED="1703283561426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/02/programFlow" />
   </component>
 </project>

@@ -1,5 +1,3 @@
-# 10
-
 # f-strings = formatted strings (similar to replacement fields)
 
 name = "Tim"

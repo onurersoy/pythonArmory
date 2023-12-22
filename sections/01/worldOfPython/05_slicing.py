@@ -1,5 +1,3 @@
-# 5
-
 parrot = "Norwegian Blue"
 
 print(parrot[0:6])  # Norweg : slice it from position 0 to 6; 6th excluded
