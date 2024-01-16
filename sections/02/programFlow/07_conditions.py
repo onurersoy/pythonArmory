@@ -15,3 +15,5 @@ if age < 16 or age > 65:
     print("Enjoy your free time")
 else:
     print("Have a good day at work")
+
+# Link (Expressions): https://docs.python.org/3/reference/expressions.html#operator-precedence
