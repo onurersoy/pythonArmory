@@ -5,27 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/08_trueFalse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/09_trueFalse2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/10_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/11_notIn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/12_ifChallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/13_forLoops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/14_forLoops2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/15_forLoops3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/16_loopChallengeExtractingCapitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/17_ranges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/18_moreAboutRanges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/19_nestedForLoop_timesTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/20_continue_shoppingList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/21_break_shoppingList2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/22_whileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/23_whileLoop2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/23_whileLoop3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/24_exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/25_exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/26_guessingGame2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/27_binarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/28_augmentedAssignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/29_augmentedAssignment2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/30_exercise_augmentAssignmentInLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/31_pep8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonArmory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonArmory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/02/programFlow/07_conditions.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/02/programFlow/07_conditions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/02/programFlow/03_guessingGame1.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/02/programFlow/03_guessingGame1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +73,8 @@
       <recent name="$PROJECT_DIR$/sections/01/worldOfPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.22_whileLoop">
-    <configuration name="09_trueFalse2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.30_exercise_augmentAssignmentInLoop">
+    <configuration name="17_ranges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,73 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/09_trueFalse2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="12_ifChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonArmory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/12_ifChallenge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="20_continue_shoppingList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonArmory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/20_continue_shoppingList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="21_break_shoppingList2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonArmory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/21_break_shoppingList2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/17_ranges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,11 +116,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="26_guessingGame2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/26_guessingGame2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="27_binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/27_binarySearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="30_exercise_augmentAssignmentInLoop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/30_exercise_augmentAssignmentInLoop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.30_exercise_augmentAssignmentInLoop" />
+        <item itemvalue="Python.17_ranges" />
+        <item itemvalue="Python.27_binarySearch" />
+        <item itemvalue="Python.26_guessingGame2" />
         <item itemvalue="Python.22_whileLoop" />
-        <item itemvalue="Python.21_break_shoppingList2" />
-        <item itemvalue="Python.20_continue_shoppingList" />
       </list>
     </recent_temporary>
   </component>
