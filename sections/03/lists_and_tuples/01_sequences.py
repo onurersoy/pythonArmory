@@ -1,3 +1,5 @@
+# SEQUENCES & ITERABLES
+
 # A sequence is an ordered collection of items.
 # In Python, anything that you can iterate over is an iterable. That means that if you can use it in a for loop,-
 # then it's an iterable.

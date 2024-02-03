@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/32_else_in_a_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/33_binary_search2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/34_another_else_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/35_section_summary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/36_section_challenge_solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/37_section_challenge_solution2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/37_section_challenge_solution3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/02/programFlow/37_section_challenge_solution4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/01_sequences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/02_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/03_immutable_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/04_immutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/05_mutable_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/06_mutable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/07_sequence_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/08_mutable_sequence_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/09_append_to_a_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/10_refactor_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/11_enumerate_refactor_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/12_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/13_refactor_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/14_exercise01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/15_removing_item_from_a_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/16_sorting_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/17_built_in_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/18_sorting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/02/programFlow/22_whileLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/02/programFlow/22_whileLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/01_sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/01_sequences.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +76,8 @@
       <recent name="$PROJECT_DIR$/sections/01/worldOfPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_sequence_operations">
-    <configuration name="02_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.18_sorting">
+    <configuration name="12_enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,8 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/02_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/12_enumerate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_mutable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13_refactor_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/06_mutable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/13_refactor_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_sequence_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14_exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/07_sequence_operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/14_exercise01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="36_section_challenge_solution1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16_sorting_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,12 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/03/lists_and_tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/36_section_challenge_solution1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/16_sorting_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="37_section_challenge_solution2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,12 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/02/programFlow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/03/lists_and_tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/02/programFlow/37_section_challenge_solution2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/18_sorting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_sequence_operations" />
-        <item itemvalue="Python.06_mutable" />
-        <item itemvalue="Python.02_lists" />
-        <item itemvalue="Python.37_section_challenge_solution2" />
-        <item itemvalue="Python.36_section_challenge_solution1" />
+        <item itemvalue="Python.18_sorting" />
+        <item itemvalue="Python.16_sorting_lists" />
+        <item itemvalue="Python.13_refactor_11" />
+        <item itemvalue="Python.14_exercise01" />
+        <item itemvalue="Python.12_enumerate" />
       </list>
     </recent_temporary>
   </component>
