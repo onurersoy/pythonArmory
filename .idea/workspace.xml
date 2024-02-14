@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/08_mutable_sequence_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/09_append_to_a_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/10_refactor_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/11_enumerate_refactor_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/12_enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/13_refactor_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/14_exercise01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/15_removing_item_from_a_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/16_sorting_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/17_built_in_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/18_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/19_case_insensitive_sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/20_creating_and_merging_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/21_replacing_a_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/22_deleting_items_and_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/23_safely_removing_values_from_a_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/24_go_backwards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/25_reversed_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/26_creating_list_from_a_range.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/01_sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/lists_and_tuples/01_sequences.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +72,8 @@
       <recent name="$PROJECT_DIR$/sections/01/worldOfPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.18_sorting">
-    <configuration name="12_enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.26_creating_list_from_a_range">
+    <configuration name="21_replacing_a_slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +85,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/12_enumerate.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/21_replacing_a_slice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13_refactor_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22_deleting_items_and_slice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +107,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/13_refactor_11.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/22_deleting_items_and_slice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14_exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23_safely_removing_values_from_a_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/14_exercise01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/23_safely_removing_values_from_a_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16_sorting_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="25_reversed_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/16_sorting_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/25_reversed_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18_sorting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="26_creating_list_from_a_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/18_sorting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/26_creating_list_from_a_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.18_sorting" />
-        <item itemvalue="Python.16_sorting_lists" />
-        <item itemvalue="Python.13_refactor_11" />
-        <item itemvalue="Python.14_exercise01" />
-        <item itemvalue="Python.12_enumerate" />
+        <item itemvalue="Python.26_creating_list_from_a_range" />
+        <item itemvalue="Python.25_reversed_function" />
+        <item itemvalue="Python.23_safely_removing_values_from_a_list" />
+        <item itemvalue="Python.22_deleting_items_and_slice" />
+        <item itemvalue="Python.21_replacing_a_slice" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +208,7 @@
       <workItem from="1701260543749" duration="5437000" />
       <workItem from="1702915110932" duration="19936000" />
       <workItem from="1705994502028" duration="3293000" />
+      <workItem from="1707388933818" duration="113930000" />
     </task>
     <servers />
   </component>
