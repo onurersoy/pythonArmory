@@ -1,4 +1,3 @@
-# Based on PEP8:
 menu = [
     ["egg", "bacon"],
     ["egg", "sausage", "bacon"],
@@ -9,13 +8,17 @@ menu = [
     ["spam", "sausage", "spam", "bacon", "spam", "tomato", "spam"],
     ["spam", "egg", "spam", "spam", "bacon", "spam"],
 ]
-# Put a comma after the last item of a list^^
 
+# 1st Approach:
 for meal in menu:
-    if "spam" not in meal:
-        print(meal)
-        for item in meal:
+    for index in range(len(meal) - 1, -1, -1):
+        if meal[index] == "spam":
+            del meal[index]
+    print(meal)
+
+# 2nd Approach:
+for meal in menu:
+    for item in meal:
+        if item != "spam":
             print(item)
-    else:
-        print("{0} has a spam score of {1}"
-              .format(meal, meal.count("spam")))
+    print()  # To put empty line after each 'meal'
