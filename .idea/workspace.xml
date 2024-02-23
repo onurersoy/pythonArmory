@@ -16,6 +16,7 @@
       <change afterPath="$PROJECT_DIR$/sections/04/functions/01_functions_intro.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sections/04/functions/02_functions_intro2_is_palindrome.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sections/04/functions/03_is_sentence_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04/functions/04_functions_calling_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" afterDir="false" />
@@ -218,7 +219,7 @@
       <workItem from="1705994502028" duration="3293000" />
       <workItem from="1707388933818" duration="113930000" />
       <workItem from="1707762278113" duration="148398000" />
-      <workItem from="1708687018867" duration="4829000" />
+      <workItem from="1708687018867" duration="5224000" />
     </task>
     <servers />
   </component>
