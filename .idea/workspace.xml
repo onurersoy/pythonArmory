@@ -5,43 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/30_no_spam_challenge2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/31_function_signature_and_print_revisited.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/32_the_join_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/33_joining_things.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/34_the_split_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/35_mini_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/01_lists/36_the_magical_adder_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/01_tuples_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/02_tuples_intro2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/03_unpacking_a_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/04_unpacking_via_enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/05_more_unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/06_nested_tuples_and_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/07_nested_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/08_jukebox_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04/functions/01_functions_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04/functions/02_functions_intro2_is_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04/functions/03_is_sentence_palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/01_sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/01_sequences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/02_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/02_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/03_immutable_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/03_immutable_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/04_immutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/04_immutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/05_mutable_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/05_mutable_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/06_mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/06_mutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/07_sequence_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/07_sequence_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/08_mutable_sequence_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/08_mutable_sequence_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/09_append_to_a_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/09_append_to_a_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/10_refactor_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/10_refactor_09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/11_enumerate_refactor_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/11_enumerate_refactor_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/12_enumerate.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/12_enumerate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/13_refactor_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/13_refactor_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/14_exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/14_exercise01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/15_removing_item_from_a_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/15_removing_item_from_a_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/16_sorting_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/16_sorting_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/17_built_in_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/17_built_in_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/18_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/18_sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/19_case_insensitive_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/19_case_insensitive_sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/20_creating_and_merging_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/20_creating_and_merging_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/21_replacing_a_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/21_replacing_a_slice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/22_deleting_items_and_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/22_deleting_items_and_slice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/23_safely_removing_values_from_a_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/23_safely_removing_values_from_a_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/24_go_backwards.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/24_go_backwards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/25_reversed_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/25_reversed_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/26_creating_list_from_a_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/26_creating_list_from_a_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/27_nested_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/27_nested_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/28_code_style_and_spam.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/28_code_style.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/03/lists_and_tuples/29_no_spam_challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/03/01_lists/29_no_spam_challenge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +78,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="23_safely_removing_values_from_a_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_jukebox_menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/03/lists_and_tuples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/03/02_tuples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/23_safely_removing_values_from_a_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/02_tuples/08_jukebox_menu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08_jukebox_menu" />
         <item itemvalue="Python.29_no_spam_challenge" />
         <item itemvalue="Python.27_nested_lists" />
         <item itemvalue="Python.26_creating_list_from_a_range" />
         <item itemvalue="Python.25_reversed_function" />
-        <item itemvalue="Python.23_safely_removing_values_from_a_list" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +217,8 @@
       <workItem from="1702915110932" duration="19936000" />
       <workItem from="1705994502028" duration="3293000" />
       <workItem from="1707388933818" duration="113930000" />
-      <workItem from="1707762278113" duration="128930000" />
+      <workItem from="1707762278113" duration="148398000" />
+      <workItem from="1708687018867" duration="4829000" />
     </task>
     <servers />
   </component>
@@ -259,13 +237,22 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonArmory$35_mini_challenge.coverage" NAME="35_mini_challenge Coverage Results" MODIFIED="1708414826684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$04_unpacking_via_enumerate.coverage" NAME="04_unpacking_via_enumerate Coverage Results" MODIFIED="1708512227504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$32_the_join_method.coverage" NAME="32_the_join_method Coverage Results" MODIFIED="1708413092427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$03_is_sentence_palindrome.coverage" NAME="03_is_sentence_palindrome Coverage Results" MODIFIED="1708728370124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$33_joining_things.coverage" NAME="33_joining_things Coverage Results" MODIFIED="1708413647130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$01_tuples_intro.coverage" NAME="01_tuples_intro Coverage Results" MODIFIED="1708435856624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$06_nested_tuples_and_lists.coverage" NAME="06_nested_tuples_and_lists Coverage Results" MODIFIED="1708517433919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_functions_intro2.coverage" NAME="02_functions_intro2 Coverage Results" MODIFIED="1708726332379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$05_more_unpacking.coverage" NAME="05_more_unpacking Coverage Results" MODIFIED="1708513550960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$30_no_spam_challenge2.coverage" NAME="30_no_spam_challenge2 Coverage Results" MODIFIED="1708411981859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
     <SUITE FILE_PATH="coverage/pythonArmory$31_function_signature_and_print_revisited.coverage" NAME="31_function_signature_and_print_revisited Coverage Results" MODIFIED="1708411782052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
     <SUITE FILE_PATH="coverage/pythonArmory$34_the_split_method.coverage" NAME="34_the_split_method Coverage Results" MODIFIED="1708414054189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
-    <SUITE FILE_PATH="coverage/pythonArmory$35_mini_challenge.coverage" NAME="35_mini_challenge Coverage Results" MODIFIED="1708414826684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
-    <SUITE FILE_PATH="coverage/pythonArmory$36_the_magical_adder_challenge.coverage" NAME="36_the_magical_adder_challenge Coverage Results" MODIFIED="1708415463173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
-    <SUITE FILE_PATH="coverage/pythonArmory$32_the_join_method.coverage" NAME="32_the_join_method Coverage Results" MODIFIED="1708413092427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
-    <SUITE FILE_PATH="coverage/pythonArmory$33_joining_things.coverage" NAME="33_joining_things Coverage Results" MODIFIED="1708413647130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$36_the_magical_adder_challenge.coverage" NAME="36_the_magical_adder_challenge Coverage Results" MODIFIED="1708415519150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$08_jukebox_menu.coverage" NAME="08_jukebox_menu Coverage Results" MODIFIED="1708557057940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$01_functions_intro.coverage" NAME="01_functions_intro Coverage Results" MODIFIED="1708609590551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$29_no_spam_challenge.coverage" NAME="29_no_spam_challenge Coverage Results" MODIFIED="1708410394620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/lists_and_tuples" />
-    <SUITE FILE_PATH="coverage/pythonArmory$30_no_spam_challenge2.coverage" NAME="30_no_spam_challenge2 Coverage Results" MODIFIED="1708411981859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$07_nested_data.coverage" NAME="07_nested_data Coverage Results" MODIFIED="1708554441203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
   </component>
 </project>
