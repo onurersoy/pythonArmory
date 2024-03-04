@@ -8,7 +8,7 @@ def palindrome_sentence(input_sentence):
         if char.isalnum():
             string += char
     print(string)
-    return is_palindrome(string)
+    return is_palindrome(string)  # Calling another function in a function
 
 
 sentence = input("Please enter a sentence to check: ")
