@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/01_tuples_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/02_tuples_intro2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/03_unpacking_a_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/04_unpacking_via_enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/05_more_unpacking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/06_nested_tuples_and_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/07_nested_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/03/02_tuples/08_jukebox_menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/04/functions/01_functions_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/04/functions/02_functions_intro2_is_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/04/functions/03_is_sentence_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/04/functions/04_functions_calling_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04_functions/functions/21_star_example_*args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04_functions/functions/22_colour_print2_*args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04_functions/functions/23_parameter_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/04_functions/functions/24_variable_number_of_arguments_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries/01_dict_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries/02_iterating_over_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries/03_adding_items_to_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries/04_changing_removing_items_in_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/05_dictionaries_sets/intro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/05_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/01/worldOfPython/08_replacementFields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/04_functions/functions/20_factorial_challenge2.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/04_functions/functions/20_factorial_challenge2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,34 +48,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kzfq009/Documents/Projects/personal/pythonArmory&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kzfq009/Documents/Projects/personal/pythonArmory",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sections/02/programFlow" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sections/05_dictionaries_sets" />
       <recent name="$PROJECT_DIR$/sections/01/worldOfPython" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="05_guessing_game_returning_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonArmory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/04_functions/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/04_functions/functions/05_guessing_game_returning_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="08_jukebox_menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonArmory" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,28 +115,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/02_tuples/08_jukebox_menu.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="25_reversed_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonArmory" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sections/03/lists_and_tuples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sections/03/lists_and_tuples/25_reversed_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_guessing_game_returning_values" />
         <item itemvalue="Python.08_jukebox_menu" />
         <item itemvalue="Python.29_no_spam_challenge" />
         <item itemvalue="Python.27_nested_lists" />
         <item itemvalue="Python.26_creating_list_from_a_range" />
-        <item itemvalue="Python.25_reversed_function" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,7 @@
       <workItem from="1705994502028" duration="3293000" />
       <workItem from="1707388933818" duration="113930000" />
       <workItem from="1707762278113" duration="148398000" />
-      <workItem from="1708687018867" duration="5224000" />
+      <workItem from="1708687018867" duration="52897000" />
     </task>
     <servers />
   </component>
@@ -239,21 +239,41 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonArmory$35_mini_challenge.coverage" NAME="35_mini_challenge Coverage Results" MODIFIED="1708414826684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$15_high_low_test.coverage" NAME="15_high_low_test Coverage Results" MODIFIED="1709545094584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$22_colour_print2__args.coverage" NAME="22_colour_print2_*args Coverage Results" MODIFIED="1709597589235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$33_joining_things.coverage" NAME="33_joining_things Coverage Results" MODIFIED="1708413647130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_functions_intro2.coverage" NAME="02_functions_intro2 Coverage Results" MODIFIED="1708726332379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$05_more_unpacking.coverage" NAME="05_more_unpacking Coverage Results" MODIFIED="1708513550960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$23_parameter_types.coverage" NAME="23_parameter_types Coverage Results" MODIFIED="1709598331315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$30_no_spam_challenge2.coverage" NAME="30_no_spam_challenge2 Coverage Results" MODIFIED="1708411981859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$11_fibonacci.coverage" NAME="11_fibonacci Coverage Results" MODIFIED="1709297610472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$31_function_signature_and_print_revisited.coverage" NAME="31_function_signature_and_print_revisited Coverage Results" MODIFIED="1708411782052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$08_jukebox_menu.coverage" NAME="08_jukebox_menu Coverage Results" MODIFIED="1708557057940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$14_printingin_colour.coverage" NAME="14_printingin_colour Coverage Results" MODIFIED="1709507205458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$04_unpacking_via_enumerate.coverage" NAME="04_unpacking_via_enumerate Coverage Results" MODIFIED="1708512227504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
     <SUITE FILE_PATH="coverage/pythonArmory$32_the_join_method.coverage" NAME="32_the_join_method Coverage Results" MODIFIED="1708413092427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
     <SUITE FILE_PATH="coverage/pythonArmory$03_is_sentence_palindrome.coverage" NAME="03_is_sentence_palindrome Coverage Results" MODIFIED="1708728370124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
-    <SUITE FILE_PATH="coverage/pythonArmory$33_joining_things.coverage" NAME="33_joining_things Coverage Results" MODIFIED="1708413647130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$dict_intro.coverage" NAME="dict_intro Coverage Results" MODIFIED="1709806320474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
+    <SUITE FILE_PATH="coverage/pythonArmory$04_changing_items_in_dict.coverage" NAME="04_changing_items_in_dict Coverage Results" MODIFIED="1709936299146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
+    <SUITE FILE_PATH="coverage/pythonArmory$19_factorial_challenge.coverage" NAME="19_factorial_challenge Coverage Results" MODIFIED="1709555070231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$01_tuples_intro.coverage" NAME="01_tuples_intro Coverage Results" MODIFIED="1708435856624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
     <SUITE FILE_PATH="coverage/pythonArmory$06_nested_tuples_and_lists.coverage" NAME="06_nested_tuples_and_lists Coverage Results" MODIFIED="1708517433919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
-    <SUITE FILE_PATH="coverage/pythonArmory$02_functions_intro2.coverage" NAME="02_functions_intro2 Coverage Results" MODIFIED="1708726332379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
-    <SUITE FILE_PATH="coverage/pythonArmory$05_more_unpacking.coverage" NAME="05_more_unpacking Coverage Results" MODIFIED="1708513550960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
-    <SUITE FILE_PATH="coverage/pythonArmory$30_no_spam_challenge2.coverage" NAME="30_no_spam_challenge2 Coverage Results" MODIFIED="1708411981859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
-    <SUITE FILE_PATH="coverage/pythonArmory$31_function_signature_and_print_revisited.coverage" NAME="31_function_signature_and_print_revisited Coverage Results" MODIFIED="1708411782052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
+    <SUITE FILE_PATH="coverage/pythonArmory$10_writing_a_docstring.coverage" NAME="10_writing_a_docstring Coverage Results" MODIFIED="1709221638900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$21_star_example.coverage" NAME="21_star_example Coverage Results" MODIFIED="1709597214349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$04_changing_removing_items_in_dict.coverage" NAME="04_changing_removing_items_in_dict Coverage Results" MODIFIED="1709936548354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
+    <SUITE FILE_PATH="coverage/pythonArmory$16_fizz_buzz_game_challenge.coverage" NAME="16_fizz_buzz_game_challenge Coverage Results" MODIFIED="1709547010848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$03_adding_items_to_dict.coverage" NAME="03_adding_items_to_dict Coverage Results" MODIFIED="1709935499404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
     <SUITE FILE_PATH="coverage/pythonArmory$34_the_split_method.coverage" NAME="34_the_split_method Coverage Results" MODIFIED="1708414054189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
     <SUITE FILE_PATH="coverage/pythonArmory$36_the_magical_adder_challenge.coverage" NAME="36_the_magical_adder_challenge Coverage Results" MODIFIED="1708415519150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
-    <SUITE FILE_PATH="coverage/pythonArmory$08_jukebox_menu.coverage" NAME="08_jukebox_menu Coverage Results" MODIFIED="1708557057940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_iterating_over_dictionary.coverage" NAME="02_iterating_over_dictionary Coverage Results" MODIFIED="1709814093851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
     <SUITE FILE_PATH="coverage/pythonArmory$01_functions_intro.coverage" NAME="01_functions_intro Coverage Results" MODIFIED="1708609590551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$16_fizz_buzz_game_challenge2.coverage" NAME="16_fizz_buzz_game_challenge2 Coverage Results" MODIFIED="1709547341179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$08_handling_invalid_arguments.coverage" NAME="08_handling_invalid_arguments Coverage Results" MODIFIED="1709205764354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$29_no_spam_challenge.coverage" NAME="29_no_spam_challenge Coverage Results" MODIFIED="1708410394620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/lists_and_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$05_guessing_game_returning_values.coverage" NAME="05_guessing_game_returning_values Coverage Results" MODIFIED="1709190091427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$07_functions_that_perform_actions.coverage" NAME="07_functions_that_perform_actions Coverage Results" MODIFIED="1709202822551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$07_nested_data.coverage" NAME="07_nested_data Coverage Results" MODIFIED="1708554441203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/02_tuples" />
+    <SUITE FILE_PATH="coverage/pythonArmory$06_challenge_sum_even_or_odd_number_in_a_range.coverage" NAME="06_challenge_sum_even_or_odd_number_in_a_range Coverage Results" MODIFIED="1709193638705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$24_variable_number_of_arguments_challenge.coverage" NAME="24_variable_number_of_arguments_challenge Coverage Results" MODIFIED="1709598959873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
   </component>
 </project>
