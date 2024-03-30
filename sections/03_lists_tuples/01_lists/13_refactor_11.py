@@ -9,6 +9,8 @@ print(valid_choices)
 current_choice = "-"
 computer_parts = []
 
+available_parts.sort()  # So we can find what we are looking for more easily
+
 while current_choice != '0':
     if current_choice in valid_choices:
         print("Adding {}".format(current_choice))
