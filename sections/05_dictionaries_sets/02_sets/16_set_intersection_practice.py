@@ -15,6 +15,6 @@ potential_rides = {"donkey", "horse", "camel"}
 intersection = farm_animals & wild_animals & potential_rides
 print(intersection)  # << intersection operator
 
-# You can also pass more than 1 sets to '.intersection' method:
+# You can also pass more than 1 set to '.intersection' method:
 mounts = farm_animals.intersection(wild_animals, potential_rides)
 print(mounts)
