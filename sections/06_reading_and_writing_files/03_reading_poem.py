@@ -18,6 +18,8 @@ for line in jabber:
 
 jabber.close()  # << Importantly, we have to close the file when we're finished. If you don't close a file when you're
 # finished with it, you can get problems.
+# Another consequence of failing to close a file, when writing data to it, is that data might be lost. So it's very
+# important to close every file that you open. Python makes this easy as it can close files automatically for us.
 
 # Whitespace is any character that represents horizontal or vertical spacing.
 # Whitespace characters aren't visible as characters, but they do space things out. Examples of whitespace characters
