@@ -1,5 +1,5 @@
 jabber = open('Jabberwocky.txt', 'r')
-# 'r' = Read
+# 'r' = Read (it's the default behaviour)
 
 # To open a file, we use the 'open' function: This isn't the cleanest way to open a file, in Python.
 # PEP 343 introduced the 'with' statement for working with things like files. The with statement was added to the
