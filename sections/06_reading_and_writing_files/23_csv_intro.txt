@@ -1,0 +1,6 @@
+:: Comma Separated Values ::
+
+CSV files are commonly used to export data from one spreadsheet program, to import it into another spreadsheet,
+or a database. Or the other way round – many database systems can export their data as CSV.
+
+Python includes a CSV module in the standard library.
