@@ -1,0 +1,49 @@
+::Summary of working with text files::
+
+- We started the section with a look at files and directories.
+- Directories – or folders – can contain files, as well as other directories.
+- As a programmer, it's important to understand file paths. You'll often need to provide paths to your program's data
+ files.
+- It's also very useful to be able to use the command line (or CLI - Command Line Interface). For the basics, at least,
+ there isn't a huge difference between the Windows command prompt and the *nix terminal. There are minor differences,
+  such as ls vs dir to list the files in the directories.
+- Another difference is in the character used to separate the various parts of a path. Windows uses the backslash (\),
+ whereas Linux and OSX use the slash (/). In Python, specify your paths using a slash - that avoids the need to escape
+  the backslash characters in strings, and means your relative paths will be valid on all 3 operating systems.
+
+
+- We then looked at opening text files for reading, and writing.
+- When you open a file, you must close afterwards. Use 'with' is safer, as your file will be closed automatically,
+when the with block terminates.
+- You can open a file for reading, writing, or both:
+- If you want to open a file for both reading and writing, make sure you understand the difference between the
+behaviour of 'r+' and 'w+'.
+
+
+- With text files, the following methods are used to read from a file:
+- readline() reads a single line from the file and returns a string. This is the same behaviour as when we did for
+ line in jabber:, the file is read one line at a time. For large files, this is the recommended approach as it does not read the entire file into memory.
+- readlines() reads the entire file and returns a list of strings, so the entire file is read into memory (which can
+cause problems with very large files).
+- read() as we used it, reads the entire file and (if it's a text file) returns a string containing the contents of the file. read() can also take an optional parameter specifying how much data to read (as we'll see later).
+
+
+The corresponding methods, when writing, are:
+- writelines() writes each of the items in a list, to the output file. Lines separators are not included. When working with text files, it can be more convenient to use print (with the file= keyword argument) instead of write or writelines.
+- write() writes a single item to the output file. No string conversion is performed – so you'd get an error if you tried to write an integer. Once again, you can use print if you want the automatic string conversion of integers.
+
+
+- Line feeds are represented by the '\n' character. You'll often want to strip line feeds from the ends of the strings
+you read, and the strip method can be used to do this.
+
+
+- We also looked at reading (and writing) data from some common file formats. We covered:
+- Parsing data from a text file.
+- Splitting fields on various separators.
+- JSON.
+- Various CSV formats.
+
+
+- Make sure you use the correct encoding, when reading and writing text files. Be explicit about the encoding you
+expect, when reading, and the encoding you're going to use, when writing.
+If you read Unicode text with the wrong file encoding, you'll get garbage or errors (more often, errors).
