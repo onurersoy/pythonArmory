@@ -1,0 +1,60 @@
+In this second half of this section, we explored binary files:
+
+Computers work in binary (base 2) with numbers stored as a sequence of zeros and ones (on or off).
+Computers store everything, including text files, as binary.
+
+When working with binary files, you need to know what the file contains. There should be documentation – a specification
+ – describing the contents of the file. Without a specification, it will be difficult to work out what the sequence of
+ bytes actually represents.
+The corollary to that is, you should create your own documentation if you write your own binary data.
+
+We used the Python bytes-like objects – bytes and bytearray – when reading binary data. bytearray is a mutable version
+ of the bytes type. bytes is immutable – just like strings. In fact, the bytes type provides many of the same methods
+ as strings. We used the split and startswith methods, for example, in our code.
+
+bytes and bytearray are arrays, and each value must be a byte: a number between 0 and 255. Unlike lists, all items in
+an array must be of the same type. Bytes-like objects are arrays of bytes.
+
+Python 2 strings were the equivalent of Python 3 bytes. In Python 3, strings are sequences of Unicode characters.
+If a bytes or bytearray object contains Unicode data, you can decode it to produce the corresponding string. It's
+important to use the correct codec when decoding a bytes-like object to a string.
+
+We used a bitmap file as a practical example of reading and writing binary data.
+Common binary file formats, such as bitmaps or mp3 files, are well documented. Other files may contain data in a
+proprietary format – for example, Microsoft didn't document the format of the files produced by Microsoft Word
+(.doc files) until 2008. Or, more accurately, they didn't release the .doc file specification until that year.
+They would have had a specification for use by their own programmers.
+
+Binary file formats can be complex. There may be sections that are optional, or variable length. We followed the
+specifications for 2 different binary file formats – .bmp and .mp3 – to make sense of the data they contain. Our code
+didn't handle every possible case that was documented, but we were able to use the specs to produce some useful results.
+
+You can use slicing to get bytes from the byte array, or use the available methods to convert a sequence of bytes into
+one of the numeric types.
+We used the from_bytes method of the int class to produce an integer from a sequence of bytes. When doing that, it's
+essential to know whether the bytes are stored in big-endian or little-endian format.
+
+Little endian – the least significant byte appears first.
+Big endian – the most significant byte appears first. This is also be referred to as network order.
+
+If you need to convert a bytes or bytearray to a floating point value, check out the struct module. We haven't covered
+ struct. Reading floating point data is quite advanced, and if you find that you need to do that you'll be advanced
+ enough to work it all out from the documentation.
+
+When reading the tags from an MP3 file, we covered a few more important concepts:
+We saw how to check that we've reached the end of the file (or, in our case, that we hadn't reached the end of the file).
+Sometimes, string data is stored as null-terminated strings, also known as c-strings. They're terminated by at least 1
+zero byte.
+You can check a specific bit in a byte by using the bitwise & operator. If a bit is zero, the result will be zero, or
+False in a boolean expression. If the bit is set, the result will be non-zero (or True).
+
+To avoid a UnicodeDecodeError, avoid decoding bytes unless you're certain they contain valid Unicode.
+Comparing a bytes object to a string will always be False. Compare to a bytes object or bytes literal instead.
+
+Reading and writing binary data follows the same basic steps as reading and writing text:
+The file is opened for reading, writing, or both.
+The file's read method is used to read a number of bytes. If you don't specify how many bytes to read, you'll get all
+the data from your current position to the end of the file.
+Data is written using the file's write method. You provide a bytes or bytearray object (or a bytes literal).
+When working with a binary file, the seek method allows you to seek relative to the start or end of the file, or
+relative to your current position in the file. It's possible to use negative values, to seek backwards as well as forwards.
