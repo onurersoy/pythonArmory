@@ -1,5 +1,9 @@
-import pytz
+import pytz  # We are using it to convert UTC to the local time zone
 import datetime
+
+# Immediately convert a time you're going to use locally to UTC so only work in UTC, then you convert them back to
+# the local time when you want to display them to the users of your program.
+# By doing this, you can get rid of almost all time related problems.
 
 country = 'Europe/Moscow'
 
