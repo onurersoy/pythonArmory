@@ -1,0 +1,2 @@
+Python provides a 'datetime' module in the standard library.
+It provides classes for dealing with dates, times, and both dates and times.
