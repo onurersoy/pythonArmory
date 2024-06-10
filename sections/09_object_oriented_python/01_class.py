@@ -1,10 +1,11 @@
-# Everything in Python is an object. Everything even types are implemented as classes.
-# Object-oriented programming uses classes and methods to provide object that encapsulates both data and the functions
-# that operate on that Data.
+# Everything in Python is an object. Everything even types is implemented as classes. Object-oriented programming
+# uses classes and methods to provide an object that encapsulates both data and the functions that operate on that Data.
 
 # Method is just another word for function. We use it interchangeably but to make it correct; when a function is part of
 # a class in Python, we call it a method.
 
+# The convention is to start class names with a capital letter and to use camel case, that's the general naming
+# convention in Python.
 class Kettle(object):
     # Looking at below, it can be helpful to think of a class as a template from which objects it can be created.
 
@@ -23,6 +24,12 @@ class Kettle(object):
 
     def switch_on(self):
         self.on = True
+
+    # The other aspect that I want to mention is that classes also have attributes; the term of 'instance variable' is
+    # useful because it contains the word 'instance', now the data attributes in the kettle example as such as 'name'
+    # and 'price' have both been attributes of the instances and each  instance has its own values for them, so it's
+    # also possible for the class to have attributes which is shared by all the instances:
+    power_source = "electricity"
 
 
 kenwood = Kettle("Kenwood", 8.99)  # Creating 'kenwood' instance from 'Kettle' class.
@@ -68,3 +75,23 @@ print(kenwood.on)
 # true for instance variables:
 kenwood.power = 1.5
 print(kenwood.power)
+
+print(Kettle.power_source)
+print(kenwood.power_source)
+print(hamilton.power_source)
+
+# To check namespaces:
+print(Kettle.__dict__)
+print(kenwood.__dict__)
+print(hamilton.__dict__)
+# When we try to access the 'power_source' attribute for the instances Python checks to see if the power source exists
+# in the instance name space, if it doesn't, which is the case here, then checks the class for the instance and finds
+# 'power_source' in the Kettle class and that's how it printed out because basically it got it from the class attribute.
+
+print("Switch to atomic power")
+Kettle.power_source = "atomic"
+print("Switch kenwood to gas")
+kenwood.power_source = "gas"
+print(Kettle.power_source)
+print(kenwood.power_source)
+print(hamilton.power_source)
