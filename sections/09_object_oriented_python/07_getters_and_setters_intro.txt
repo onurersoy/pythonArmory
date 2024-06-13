@@ -1,0 +1,15 @@
+# Python classes don't need getters and setters to allow you to read and change the values of their data attributes or
+# instance variables if you're more familiar with that term from other programming languages.
+
+# Python adopts the philosophy that we're all responsible adults, so it doesn't have the facility to make class
+# attributes private like many other object-oriented languages do. But 'getters' and 'setters' are still useful in
+# Python.
+
+# Let's do something quite controversial: I'm going to put each of our classes in a separate file. Now this is the
+# usual way of doing things in C++ or Java, but there's no need to have one file per class in Python. In fact,
+# if we were creating these classes in a working programme, we would actually keep them all in the same file. But the
+# reason I'm going to do that here is because we're going to be flicking back and forth looking at the various
+# classes while I describe what's going on and that's much easier to do if each class appears in its own tab in the
+# editor rather than scrolling up and down through a single file. And it also provides an excuse to show you another
+# way of importing a class. Remember that it's not necessary to do this in Python. You're better off keeping related
+# classes in the same file so that each file is organized based on functionality.
