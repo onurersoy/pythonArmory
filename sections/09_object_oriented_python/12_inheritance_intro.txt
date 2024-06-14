@@ -1,0 +1,24 @@
+# Different types of objects in the 'real world' can have a certain amount in common with each other; like eagle, crow
+# and penguin all being a bird.
+# They share the 'being a bird' trait, they all have a beak and wings, things they inherit by virtue of them being
+# birds.
+
+# So what we can do is, we can define a base class that objects are based on in Python, things that are common for
+# classes that derive from the base class. And then we can allow a class to define the unique characteristics of itself.
+# So in other words, we have a base class, then something that inherits from that to make it something else again,
+# making it unique.
+
+# So all our birds inherit some base properties from their base class which is often referred to as the superclass.
+# Now they also inherit methods, so all our birds can walk and eat, but the individual bird classes also have their own
+# unique properties and methods. So in this case, penguins can swim, and ostriches can run, for example.
+
+# Now these individual bird classes are referred to as subclasses. So crow is a subclass of bird, which makes bird a
+# superclass of crow. Now the idea of subclassing can be taken further, so we could add subclasses of bird, such as
+# flying bird and flightless bird (which are another subclasses for their subclasses like eagle or crow, etc.).
+
+# So a class can have more than one superclass in a hierarchy, like in this slide. Now in Python, classes can inherit
+# directly from several superclasses, which is known as 'Multiple Inheritance'. Now, many programming languages don't
+# allow this, so the class structure ends up being strictly hierarchical, as I've shown here. Java classes, for example,
+# can have more than one superclass, but it has to be hierarchical.
+
+# Extends = Inherits from
