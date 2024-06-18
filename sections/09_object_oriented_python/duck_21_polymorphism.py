@@ -1,4 +1,6 @@
-class Duck(object):
+# Intro: '20_polymorphism_intro.py'
+
+class Duck(object):  # TODO: Needs to be further investigated ('object' part!)
 
     def walk(self):
         print("Waddle, waddle, waddle")

@@ -1,0 +1,10 @@
+So about '23_html_doc_(composition).py', our HtmlDot class is now displaying polymorphic behaviour, it is a
+html doc, but it can also be used in place of a body object, it can even be used in place of any of our tag, it just
+needs to display method.
+
+So we've implemented polymorphism without using inheritance but using composition. We said that using inheritance isn't
+the only way to achieve polymorphism.
+
+The program itself on '23_html_doc_(composition).py' does use inheritance; all our other classes inherit from tag. But
+the HtmlDoc isn't a subclass of tag; it provides the same methods as tag but does so by defining methods with the same
+name and then delegating the implementation of those methods to the classes that is composed of.

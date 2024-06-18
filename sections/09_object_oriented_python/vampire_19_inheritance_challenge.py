@@ -25,13 +25,13 @@ class Vampire(Enemy):
 # Inheritance challenge:
 class VampireKing(Vampire):  # Subclass of a subclass
     def __init__(self, name):
-        super().__init__(name)  # TODO : Needs to be further investigated
+        super().__init__(name)  # TODO: Needs to be further investigated
     # Notice the single parameter we use when calling the super init method on line 28. Now our vampire class is a
     # subclass of enemy and vampire king is a subclass of vampire, so the method that will be called when we use super
     # init here is actually the vampire class init method and not the enemy init method.
     # Now the init method in the vampire class will then call init in the enemy class, so the calls will pass
     # up the chain with each subclass calling the init method of its superclass.
-        self.hit_points = 140
+        self.hit_points = 140  # TODO: Needs to be further investigated
 
     def __str__(self):
         return f"Name: {self.name}, Lives: {self.lives}, Hit points: {self.hit_points}"
