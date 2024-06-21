@@ -8,12 +8,14 @@ db = sqlite3.connect("contacts.sqlite")
 new_email = "anotherupdate@update.com"
 # phone = 1234567
 phone = input("Please enter the phone number: ")
+# Python replacement field (notice that we used quotation marks for string values):
 # update_sql = f"UPDATE contacts SET email = '{new_email}' WHERE contacts.phone = {phone}"
 # This approach leaves you open for SQL injection attacks if you depend on a user input. Because someone can put this
 # to input and harm your data integrity: "1234;drop table contacts".
 
 # Let's comment out line 11 first. To avoid getting an SQL injection attack, you can use this kind of approach:
-update_sql = f"UPDATE contacts SET email = ? WHERE contacts.phone = ?"  # << Placeholders
+update_sql = f"UPDATE contacts SET email = ? WHERE contacts.phone = ?"  # << Placeholders (notice that we didn't use
+# quotation marks for string values because placeholders manage it for us)
 print(update_sql)
 
 update_cursor = db.cursor()
