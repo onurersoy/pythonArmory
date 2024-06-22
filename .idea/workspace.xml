@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/10_using_databases/12_rollback3_rollback_transactions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/10_using_databases/13_jukebox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/10_using_databases/music.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/12_some_more_features/01_*args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/12_some_more_features/02_**kwargs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/12_some_more_features/backwards.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions/01_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions/02_generator_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions/03_generator_yield_size2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions/04_generator_yield_size3_from_source_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,7 +236,7 @@
       <workItem from="1718703999924" duration="21450000" />
       <workItem from="1718886181249" duration="109000" />
       <workItem from="1718886297678" duration="355000" />
-      <workItem from="1718886661710" duration="22236000" />
+      <workItem from="1718886661710" duration="25796000" />
     </task>
     <servers />
   </component>
@@ -296,6 +293,7 @@
     <SUITE FILE_PATH="coverage/pythonArmory$06_challenge_sum_even_or_odd_number_in_a_range.coverage" NAME="06_challenge_sum_even_or_odd_number_in_a_range Coverage Results" MODIFIED="1709193638705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$24_variable_number_of_arguments_challenge.coverage" NAME="24_variable_number_of_arguments_challenge Coverage Results" MODIFIED="1709598959873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$03_account2.coverage" NAME="03_account2 Coverage Results" MODIFIED="1717854032287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/09_object_oriented_python" />
+    <SUITE FILE_PATH="coverage/pythonArmory$03_generator_yield_size2.coverage" NAME="03_generator_yield_size2 Coverage Results" MODIFIED="1719068242666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions" />
     <SUITE FILE_PATH="coverage/pythonArmory$22_colour_print2__args.coverage" NAME="22_colour_print2_*args Coverage Results" MODIFIED="1709597589235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$09_removeprefix_removesuffix.coverage" NAME="09_removeprefix_removesuffix Coverage Results" MODIFIED="1712792082581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/06_reading_and_writing_files" />
     <SUITE FILE_PATH="coverage/pythonArmory$15_set_intersection.coverage" NAME="15_set_intersection Coverage Results" MODIFIED="1712235873230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/02_sets" />
@@ -404,6 +402,7 @@
     <SUITE FILE_PATH="coverage/pythonArmory$vampire_17_another_enemy_subclass.coverage" NAME="vampire_17_another_enemy_subclass Coverage Results" MODIFIED="1718626615983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/09_object_oriented_python" />
     <SUITE FILE_PATH="coverage/pythonArmory$02_account__encapsulation_.coverage" NAME="02_account_(encapsulation) Coverage Results" MODIFIED="1717851774730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/09_object_oriented_python" />
     <SUITE FILE_PATH="coverage/pythonArmory$07_functions_that_perform_actions.coverage" NAME="07_functions_that_perform_actions Coverage Results" MODIFIED="1709202822551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_size.coverage" NAME="02_size Coverage Results" MODIFIED="1719067055672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions" />
     <SUITE FILE_PATH="coverage/pythonArmory$41_bytes_example.coverage" NAME="41_bytes_example Coverage Results" MODIFIED="1713910227956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/06_reading_and_writing_files" />
   </component>
 </project>
