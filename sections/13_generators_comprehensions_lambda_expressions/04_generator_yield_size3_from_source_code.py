@@ -9,6 +9,7 @@ def my_range(n: int):
         yield start
         start += 1
 
+
 _ = input("line 12")
 # So we're using an underscore; using that as a variable name in here because that's a Python convention, and indicates
 # that we're not interested in the value of the variable.
