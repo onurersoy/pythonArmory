@@ -1,0 +1,20 @@
+Andromeda: garden
+Bellflower: garden
+China Pink: window box
+Daffodil: window box
+Evening Primrose: garden
+French Marigold: garden
+Golden Hakone Grass: window box
+Hydrangea: garden
+Iris: window box
+Japanese Camellia: garden
+Lavender: window box
+Lilac: garden
+Magnolia: garden
+Peony: window box
+Queen Anne's Lace: garden
+Red Hot Poker: window box
+Snapdragon: garden
+Sunflower: garden
+Tiger Lily: window box
+Witch Hazel: garden
