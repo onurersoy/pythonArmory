@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/37_lambda_expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/38_lambda_expression2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/39_conditional_expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/40_conditional_expression2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/41_conditional_expression_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/medals_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/planting_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/42_a_lambda_with_a_conditional_expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/43_functions_are_objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/planting_instructions2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +239,7 @@
       <workItem from="1719146153872" duration="30438000" />
       <workItem from="1719900668829" duration="4576000" />
       <workItem from="1720183557648" duration="13086000" />
-      <workItem from="1720382364033" duration="2149000" />
+      <workItem from="1720382364033" duration="5148000" />
     </task>
     <servers />
   </component>
@@ -347,6 +344,7 @@
     <SUITE FILE_PATH="coverage/pythonArmory$20_simple_json_example2.coverage" NAME="20_simple_json_example2 Coverage Results" MODIFIED="1712932942108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/06_reading_and_writing_files" />
     <SUITE FILE_PATH="coverage/pythonArmory$03_adding_items_to_dict.coverage" NAME="03_adding_items_to_dict Coverage Results" MODIFIED="1711571572915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
     <SUITE FILE_PATH="coverage/pythonArmory$07_adding_items_to_buy_computer_dict.coverage" NAME="07_adding_items_to_buy_computer_dict Coverage Results" MODIFIED="1711572126996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
+    <SUITE FILE_PATH="coverage/pythonArmory$41_conditional_expression_challenge.coverage" NAME="41_conditional_expression_challenge Coverage Results" MODIFIED="1720441757239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more" />
     <SUITE FILE_PATH="coverage/pythonArmory$34_the_split_method.coverage" NAME="34_the_split_method Coverage Results" MODIFIED="1708414054189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
     <SUITE FILE_PATH="coverage/pythonArmory$36_the_magical_adder_challenge.coverage" NAME="36_the_magical_adder_challenge Coverage Results" MODIFIED="1708415519150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/03/01_lists" />
     <SUITE FILE_PATH="coverage/pythonArmory$06_song2_oop_version.coverage" NAME="06_song2_oop_version Coverage Results" MODIFIED="1718216752037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/09_object_oriented_python" />
@@ -406,6 +404,7 @@
     <SUITE FILE_PATH="coverage/pythonArmory$05_connections_cursors_transactions_contacts4.coverage" NAME="05_connections_cursors_transactions_contacts4 Coverage Results" MODIFIED="1718802945146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/10_using_databases" />
     <SUITE FILE_PATH="coverage/pythonArmory$06_time_datetime.coverage" NAME="06_time_datetime Coverage Results" MODIFIED="1714776117088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/07_modules_functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$15_shallow_copy2.coverage" NAME="15_shallow_copy2 Coverage Results" MODIFIED="1711929297167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/05_dictionaries_sets/01_dictionaries" />
+    <SUITE FILE_PATH="coverage/pythonArmory$40_conditional_expression2.coverage" NAME="40_conditional_expression2 Coverage Results" MODIFIED="1720441783237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more" />
     <SUITE FILE_PATH="coverage/pythonArmory$30_dict_reader_challenge.coverage" NAME="30_dict_reader_challenge Coverage Results" MODIFIED="1713564764810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/06_reading_and_writing_files" />
     <SUITE FILE_PATH="coverage/pythonArmory$03_time_delta.coverage" NAME="03_time_delta Coverage Results" MODIFIED="1717165612309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/08_date_and_time" />
     <SUITE FILE_PATH="coverage/pythonArmory$03_is_sentence_palindrome.coverage" NAME="03_is_sentence_palindrome Coverage Results" MODIFIED="1708728370124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04/functions" />

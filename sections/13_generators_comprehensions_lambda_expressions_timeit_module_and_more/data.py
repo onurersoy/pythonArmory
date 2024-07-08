@@ -1,4 +1,4 @@
-# It's to allow '34_named_tuple_test.py' work, so simply ignore it.
+# It's to allow '34_named_tuple_test.py' and some other mıodules work, so simply ignore it.
 
 from collections import namedtuple
 
