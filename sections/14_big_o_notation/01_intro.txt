@@ -1,0 +1,38 @@
+Big O notation is used to describe how the running time (or space requirements) of an algorithm grows, as you give it
+larger data sets to process.
+
+Programmers commonly use big O notation, rather than the other notations that are also available. Big O describes the
+upper bound.
+
+In the list that follows, I've listed the most common big O notations that you'll come across, with a brief description
+of what they mean.
+
+The notations appear in the order of how well they scale. As we get further into the slides, the algorithms will take
+increasingly larger amounts of time, as n increases.
+
+If we're applying them to memory usage, then the algorithms will use more and more memory, as n increases.
+
+The letter n refers to the number of items being processed. The size of the data, in other words.
+
+It's important to understand that big O doesn't tell you how fast an algorithm is. It's an indication of how the
+algorithm scales. By that, we mean how it performs when processing larger and larger data sets.
+
+Accessing an item in a list, using its index position, is O(1), or constant time. No matter how many items are in the
+list, we can go directly to any item by using its index position. Accessing the 900th item takes the same time, whether
+the list contains a thousand, a million, or several billion items.
+
+On the other hand, finding a value in an unsorted list is O(n) or linear time. If we have a list of 10 items, and we
+want to check if it contains "Python", then we might have to test 10 different values. If the list contains 1000 items,
+then we might have to check all one thousand entries. If the list is sorted, we can perform a binary search. That will
+execute in O(log n). We discussed the binary search in the 'Program flow control in a Python' section.
+
+Of course, the item we want might be the first item in the list. That means we'll find it straight away. Similarly,
+with a binary search, the item might be at the midpoint of the sorted list. If so, we'll also find it straight away.
+Which leads nicely onto the next slide: What does big O measure? Big O is used to measure the worst case of an
+algorithm. In the worst case, when the item we want is at the end of the list, then searching an unsorted list will
+involve checking every item in the list.
+
+With a list of 10 items, we'll find our item on the 10th try. With 1000 items, we'll compare 1000 values before we find
+the one we want. O(n) doesn't tell us that we'll need n operations. It tells us that, in the worst case, the time taken
+to find something will increase as the size of the list increases. Similarly, O(log n) implies that the algorithm's time
+increases as the log of n increases.

@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4afb18bd-7bad-46e8-8b7e-cdbb7c8fa403" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/42_a_lambda_with_a_conditional_expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/43_functions_are_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/planting_instructions2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/14_big_o_notation/01_intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/14_big_o_notation/02_bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/14_big_o_notation/03_bubble_sort_optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sections/14_big_o_notation/03_bubble_sort_optimized2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/sections/13_generators_comprehensions_lambda_expressions_timeit_module_and_more/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kzfq009/Documents/Projects/personal/pythonArmory/sections/08_date_and_time&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kzfq009/Documents/Projects/personal/pythonArmory/sections/14_big_o_notation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Other File Types",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sections/08_date_and_time" />
@@ -239,7 +239,7 @@
       <workItem from="1719146153872" duration="30438000" />
       <workItem from="1719900668829" duration="4576000" />
       <workItem from="1720183557648" duration="13086000" />
-      <workItem from="1720382364033" duration="5148000" />
+      <workItem from="1720382364033" duration="12640000" />
     </task>
     <servers />
   </component>
@@ -298,6 +298,7 @@
     <SUITE FILE_PATH="coverage/pythonArmory$13_printing_data_to_text_file.coverage" NAME="13_printing_data_to_text_file Coverage Results" MODIFIED="1712845138148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/06_reading_and_writing_files" />
     <SUITE FILE_PATH="coverage/pythonArmory$10_free_variable.coverage" NAME="10_free_variable Coverage Results" MODIFIED="1716930395066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/07_modules_and_more_on_functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$01_star_args.coverage" NAME="01_star_args Coverage Results" MODIFIED="1719045584983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/12_some_more_features" />
+    <SUITE FILE_PATH="coverage/pythonArmory$02_bubble_sort.coverage" NAME="02_bubble_sort Coverage Results" MODIFIED="1720531111563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/14_big_o_notation" />
     <SUITE FILE_PATH="coverage/pythonArmory$06_challenge_sum_even_or_odd_number_in_a_range.coverage" NAME="06_challenge_sum_even_or_odd_number_in_a_range Coverage Results" MODIFIED="1709193638705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$24_variable_number_of_arguments_challenge.coverage" NAME="24_variable_number_of_arguments_challenge Coverage Results" MODIFIED="1709598959873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/04_functions/functions" />
     <SUITE FILE_PATH="coverage/pythonArmory$03_account2.coverage" NAME="03_account2 Coverage Results" MODIFIED="1717854032287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sections/09_object_oriented_python" />
